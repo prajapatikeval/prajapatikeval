@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 📫 How to reach me **kevalprajapati2701@gmail.com**
+- 📫 How to reach me **kevalprajapati1001@gmail.com**
 
 - ⚡ Fun fact **I like coding.**
 
