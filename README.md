@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm keval</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
-- 🔅 <a href="https://kevalprajapati.me" target="blank">kevalprajapati.me</a>
+- 🔅 <a href="https://kevalprajapati.me" target="_blank">**kevalprajapati.me**</a>
 
 - 🌱 I’m currently learning **Django**
 
